@@ -8,7 +8,7 @@ public class CalcularEdad {
  
 	public static void main(String[] args) {
 		
-		System.out.println(calcular(new GregorianCalendar(1984,02,14)));
+		System.out.println(calcular(new GregorianCalendar(1994,02,14)));
 	}
  
     public static int calcular(Calendar fechaNac) {
